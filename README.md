@@ -13,7 +13,7 @@ Implemented mesh subdivision using half-edge data structure.
 
 ## Section II: Sampling
 
-Average normals for half-edge meshes
+## Average normals for half-edge meshes
 
 <img src="images/part3_1.jpg" width="400"/>  <img src="images/part3_2.jpg" width="400"/>
 
