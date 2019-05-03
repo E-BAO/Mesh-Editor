@@ -28,7 +28,7 @@ Implemented mesh subdivision using half-edge data structure.
 
 <br/>
 
-## Section III:Loop subdivision for mesh upsampling
+## Section III: Loop subdivision for mesh upsampling
 <p>Torus</p>
 
 <img src="images/part6_8.jpg" width="280"/>  <img src="images/part6_9.jpg" width="280"/>  <img src="images/part6_10.jpg" width="280"/>
