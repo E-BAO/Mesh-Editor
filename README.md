@@ -29,14 +29,17 @@ Implemented mesh subdivision using half-edge data structure.
 <br/>
 
 ## Section III:Loop subdivision for mesh upsampling
+<p>Torus</p>
 <img src="images/part6_8.jpg" width="280"/>  <img src="images/part6_9.jpg" width="280"/>  <img src="images/part6_10.jpg" width="280"/>
 
 <br/>
 
-<img src="images/part6_11.jpg" width="400"/>  <img src="images/part6_12.jpg" width="280"/>
+<p>Asymmetric cube</p>
+<img src="images/part6_11.jpg" width="400"/>  <img src="images/part6_12.jpg" width="400"/>
 <img src="images/part6_13.jpg" width="400"/>  <img src="images/part6_14.jpg" width="400"/>
 
 <br/>
 
+<p>Symmetric cube (pre-split)</p>
 <img src="images/part6_0.jpg" width="400"/>  <img src="images/part6_1.jpg" width="400"/>  
 <img src="images/part6_2.jpg" width="400"/> <img src="images/part6_3.jpg" width="400"/>
